@@ -30,6 +30,7 @@
 
 ```bash
 $ yarn install
+$ yarn add @nestjs/cache-manager cache-manager
 ```
 
 ## Running the app
